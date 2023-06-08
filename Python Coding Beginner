@@ -1,0 +1,13 @@
+Import Random 
+
+input("Heads or Tails").lower()
+
+coin = random.radiant(0,1)
+
+if coin == 0
+  print(Heads)
+
+else:
+  print(Tails) 
+
+
